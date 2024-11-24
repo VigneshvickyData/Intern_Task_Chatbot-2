@@ -28,10 +28,13 @@ Dataset:
 ### 4. Activities and Tasks
 Dataset Preparation:
 * Processed and categorized the MedQuAD dataset based on medical topics.
+
 Retrieval Mechanism:
 * Designed a system to retrieve relevant answers using keyboard matching and vector similarity.
+
 Entity recognition:
 * Implemented basic medical entity extraction (symptoms, diseases, treatments) to enhance chatbot responses.
+
 Interface Development:
 * Built a Streamlit interface for medical Q&A with dynamic answer display.
 
@@ -40,6 +43,7 @@ Technical Skills:
 * NLP and Machine Learning: applied Scikit-learn for retrieval and entity recognition.
 * Streamlit: Designed an interactive chatbot interface.
 * Data Processing: Prepared the MedQuAD dataset for implementation.
+
 Core Competencies:
 * Problem-solving and effective communication through precise chatbot responses.
 * Attention to detail in data processing and entity recognition.
@@ -48,8 +52,10 @@ Core Competencies:
 Feedback:
 * Positive remarks on chatbot accuracy and usability.
 * Suggestions for enhancing entity recognition for complex queries.
+
 Evidence:
 * Screenshots of the final Medical Q&A Chatbot using the MedQuAD Dataset
+
 Question 1: How can i prevent heart disease? 
 ![App Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/med_1.png?raw=true)
 ![App Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/med_2.png?raw=true)
@@ -75,6 +81,7 @@ Challenges 2: Accurate recognition of medical entities.
 Outcomes:
 * Delivered a functional chatbot with basic medical Q&A capabilities.
 * Integrated medical entity recognition for improved context.
+
 Impact:
 * Improved access to reliable medical infromation.
 * Gained valuable experience in dataset processing , NLP techniques, and interface development.
