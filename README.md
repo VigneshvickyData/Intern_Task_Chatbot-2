@@ -2,8 +2,6 @@
 
 # Task 2: Developing a Medical Q&A Chatbot using the MedQuAD Dataset
 
-## Final Report
-
 
 ### 1. Introduction
 The aim of this was to develop a medical Q&A chatbot using the MedQuAD dataset.The chatbot is designed to retrieve relevant answers to user queries and incorporate basic medical entity recognition, such as symptoms, diseases, and treatments.Additionally,the chatbot includes a simple, interactive interface created with Streamlit to enchance usability.
